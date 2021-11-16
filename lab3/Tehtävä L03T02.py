@@ -1,0 +1,6 @@
+luku1=int (input("anna kokonaisluku"))
+luku2=int (input("anna kokonaisluku"))
+luku3=int (input("anna kokonaisluku"))
+if luku1<luku2<luku3:print (luku3)
+if luku1<luku3<luku2:print (luku2)
+if luku3<luku2<luku1:print (luku1)
